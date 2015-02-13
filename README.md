@@ -2,7 +2,7 @@ jmx2statsd
 ==========
 
 Send JMX numeric attibutes to StatsD
-![alt tag](https://raw2.github.com/Kr0n05/jmx2statsd/master/MEDIA/jmx2statsd.jpg)
+![alt tag](https://github.com/Kr0n05/jmx2statsd/blob/master/MEDIA/jmx2statsd.jpg)
 
 # Let's get started!
 
